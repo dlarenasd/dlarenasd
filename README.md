@@ -9,26 +9,26 @@
     <li> En Febrero 2024 no sabía nada de porgramación 🤯 y actualmente (Julio 2024) estoy terminando un Bootcamp en Desarrollo Full Stack Python 🤓. </li>
 </ul>
 <hr>
-<h3>🛠 Lenguajes y Herramientas</h3>
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40px" />    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="40px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" height="40px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="40px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg" height="40px" />
-</div>
+<h3> Lenguajes y Herramientas</h3>
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML-5" height="40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS-3" height="40px" />    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" height="40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" alt="dBeaver" height="40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" height="40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" height="40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg" alt="Trello" height="40px" />
+</p>
 <hr>
 <h3>Formación</h3>
 <ul>
     <li> Bootcamp “Desarrollo de aplicaciones Full Stack Python Trainee”.</li>
     <li> “Gestión de Proyectos con Metodologías Ágiles”, SENCE – Movistar/Fundación Telefónica </li>
     <li>Certificación aprobada “Scrum Fundamentals Certified", Scrum-Study</li>
-    <li> Psicología - Universidad de Chile </li>
+    <li> Psicología - Universidad de Chile (Egreso 2019)</li>
     <li> Post-títulos y otras certificaciones </li>
         <ul>
             <li> Diplomado en Psicoterapia Humanista-Existencial - Universidad de Chile (2018)</li>
@@ -36,6 +36,19 @@
         </ul>
 </ul> 
 <hr>
+<h3>Mi experiencia profesional</h3>
+<ul>
+    <li>Si bien no tengo experiencia profesional en programación, llevo 5 años ejerciendo como psicólogo clínico (la mitad en pandemia) y en contacto constante con personas.</li>
+    <li>Igualmente trabajé dos años en labores administrativas en un magister de la Universidad de Chile, donde me encontré con que me gustan los trabajos de gestión y que mi esfuerzo termine por facilitar el trabajo de muchas otras personas.</li>
+</ul>
+<hr>
+<h3>Mis intereses</h3>
+<p>Primero que nada, ¡muchas gracias por seguir leyendo!</p> 
+<p>Personalmente me ha llamado mucho más la atención el Back-End que el Front, creo que mis habilidades van más por ese lado, aunque me esfuerzo porque mis proyectos se vean bien. 
+</p>
+<p>Otro tópico que me resulta muy atractivo son las metodologías ágiles. Si bien me gusta programar, creo que las habilidades de mi profesión y mi agrado por las tareas de gestión podrían ayudarme en estas metodologías, e incluso algún día llegar a ser Scrum Master.</p>
+<hr>
+
 <!--
 **dlarenasd/dlarenasd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
