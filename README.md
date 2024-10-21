@@ -21,13 +21,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" height="40px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" height="40px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg" alt="Trello" height="40px" />
+    <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="Power BI" height="40px" />
 </p>
 <hr>
 <h3>Formación</h3>
 <ul>
     <li> Bootcamp “Desarrollo de aplicaciones Full Stack Python Trainee”.</li>
     <li> “Gestión de Proyectos con Metodologías Ágiles”, SENCE – Movistar/Fundación Telefónica </li>
-    <li>Certificación aprobada “Scrum Fundamentals Certified", Scrum-Study</li>
+    <li> “Design Thinking”, SENCE – Movistar/Fundación Telefónica - UPLA </li>
+    <li> Certificación aprobada “Scrum Fundamentals Certified", Scrum-Study</li>
+    <li> “Curso Completo Power BI”, Diego López - Udemy </li>
     <li> Psicología - Universidad de Chile (Egreso 2019)</li>
     <li> Post-títulos y otras certificaciones </li>
         <ul>
