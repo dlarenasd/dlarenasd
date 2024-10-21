@@ -6,7 +6,7 @@
 <ul>
     <li> 🌎Vivo en Temuco, Chile </li>
     <li> Soy padre de 3 gatos maravillosos 🐱🐱🐱 </li>
-    <li> En Febrero 2024 no sabía nada de porgramación 🤯 y actualmente (Julio 2024) estoy terminando un Bootcamp en Desarrollo Full Stack Python 🤓. </li>
+    <li> En Febrero 2024 no sabía nada de porgramación 🤯 y en Agosto 2024 egresé de Bootcamp en Desarrollo Full Stack Python 🤓. </li>
 </ul>
 <hr>
 <h3> Lenguajes y Herramientas</h3>
