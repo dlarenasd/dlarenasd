@@ -1,11 +1,11 @@
 <h2>Hola, soy Diego Larenas Dintrans 👋</h2>
 <hr>
-<p> Estoy partiendo como Desarrollador Full Stack Python y soy Psicólogo clínico de profesión</p>
+<p> Soy un Psicólogo clínico de profesión convertido en Python Developer y Data Scientist</p>
 <hr>
 <h3>Sobre mí</h3>
 <ul>
     <li> 🌎Vivo en Temuco, Chile </li>
-    <li> Soy padre de 3 gatos maravillosos 🐱🐱🐱 </li>
+    <li> Soy padre de 5 gatos maravillosos 🐱🐱🐱🐱🐱 </li>
     <li> En Febrero 2024 no sabía nada de porgramación 🤯 y en Agosto 2024 egresé de un Bootcamp en Desarrollo Full Stack Python 🤓. </li>
 </ul>
 <hr>
@@ -31,6 +31,7 @@
     <li> “Design Thinking”, SENCE – Movistar/Fundación Telefónica - UPLA </li>
     <li> Certificación aprobada “Scrum Fundamentals Certified", Scrum-Study</li>
     <li> “Curso Completo Power BI”, Diego López - Udemy </li>
+    <li> Bootcamp "Fundamentos Ciencia de Datos"</li>
     <li> Psicología - Universidad de Chile (Egreso 2019)</li>
     <li> Post-títulos y otras certificaciones </li>
         <ul>
@@ -41,15 +42,15 @@
 <hr>
 <h3>Mi experiencia profesional</h3>
 <ul>
-    <li>Si bien no tengo experiencia profesional en programación, llevo 5 años ejerciendo como psicólogo clínico (la mitad en pandemia) y en contacto constante con personas.</li>
+    <li>En mi breve carrera como programador he participado automatizando análisis de datos en un estudio oncológico, y trabajo como analista de datos de una clínica kinesiológica. Igualmente llevo 5 años ejerciendo como psicólogo clínico (la mitad en pandemia) y en contacto constante con personas.</li>
     <li>Igualmente trabajé dos años en labores administrativas en un magister de la Universidad de Chile, donde me encontré con que me gustan los trabajos de gestión y que mi esfuerzo termine por facilitar el trabajo de muchas otras personas.</li>
 </ul>
 <hr>
 <h3>Mis intereses</h3>
 <p>Primero que nada, ¡muchas gracias por seguir leyendo!</p> 
-<p>Personalmente me ha llamado mucho más la atención el Back-End que el Front, creo que mis habilidades van más por ese lado, aunque me esfuerzo porque mis proyectos se vean bien. 
+<p>Personalmente me ha llamado mucho más la atención el Back-End que el Front, y me he formado en análisis de datos y ciencia de datos porque creo que en esta era de tanta información hay que saber qué hacer con ella.  
 </p>
-<p>Otro tópico que me resulta muy atractivo son las metodologías ágiles. Si bien me gusta programar, creo que las habilidades de mi profesión y mi agrado por las tareas de gestión podrían ayudarme en estas metodologías, e incluso algún día llegar a ser Scrum Master.</p>
+<p>Otro tópico que me resulta muy atractivo son las metodologías ágiles. Si bien me gusta programar, creo que las habilidades de mi profesión y mi agrado por las tareas de gestión podrían ayudarme en estas metodologías.</p>
 <hr>
 
 <!--
